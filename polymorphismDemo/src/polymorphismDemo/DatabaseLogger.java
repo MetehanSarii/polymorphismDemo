@@ -1,0 +1,6 @@
+package polymorphismDemo;
+
+public class DatabaseLogger extends BaseLogger {
+	
+
+}
